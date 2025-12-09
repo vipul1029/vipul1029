@@ -20,7 +20,7 @@ I like learning by doing, experimenting with new ideas, and improving my skills 
 ---
 
 ## 💼 Experience  
-### Software Development Intern — **Bluestock Fintech**  
+### Software Development Intern  **Bluestock Fintech**  
 *(June 2025 – July 2025)*  
 
 During my internship, I worked on a **full-stack IPO web application** where I got hands-on experience with real product development.
