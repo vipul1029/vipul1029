@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/vipul1029/vipul1029/main/profile_pic.jpg" 
+     alt="Vipul Kumar" 
+     width="160" 
+     style="border-radius: 50%;" />
 # Hi there 👋 I’m Vipul Kumar  
 
 I’m a **Computer Science Engineering student at VIT Vellore** who genuinely enjoys building things with code — whether it’s a clean website, a full-stack application, or a machine learning model.
