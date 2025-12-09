@@ -4,7 +4,7 @@
      style="border-radius: 50%;" />
 # Hi there 👋 I’m Vipul Kumar  
 
-I’m a **Computer Science Engineering student at VIT Vellore** who genuinely enjoys building things with code — whether it’s a clean website, a full-stack application, or a machine learning model.
+I’m a **Computer Science Engineering student at VIT Vellore** who genuinely enjoys building things with code whether it’s a clean website, a full-stack application, or a machine learning model.
 
 I like learning by doing, experimenting with new ideas, and improving my skills through real-world projects.
 
@@ -90,4 +90,4 @@ You can find live demos and source code in my repositories below 👇
 - 🌐 Portfolio: **https://portfolio-vipul1007s-projects.vercel.app/**
 
 Thanks for stopping by! ⭐  
-Feel free to explore my work — and don’t hesitate to connect.
+Feel free to explore my work  and don’t hesitate to connect.
