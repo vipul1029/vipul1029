@@ -85,9 +85,9 @@ You can find live demos and source code in my repositories below 👇
 ---
 
 ## 📫 Let’s Connect  
-- 📧 Email: **vipul.kumar2023@vitstudent.ac.in**  
-- 💼 LinkedIn: *(add your LinkedIn link here)*  
-- 🌐 Portfolio: *(add your portfolio link here)*  
+- 📧 Email: **tovipul.kr@gmail.com** 
+- 💼 LinkedIn:  **https://www.linkedin.com/in/vipul-kumar-7697a428a/**
+- 🌐 Portfolio: **https://portfolio-vipul1007s-projects.vercel.app/**
 
 Thanks for stopping by! ⭐  
 Feel free to explore my work — and don’t hesitate to connect.
