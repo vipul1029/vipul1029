@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/vipul1029/vipul1029/main/profile_pic.jpg" 
+<img src="https://github.com/vipul1029/vipul1029/blob/main/profile_pic.JPG" 
      alt="Vipul Kumar" 
      width="160" 
      style="border-radius: 50%;" />
