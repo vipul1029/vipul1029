@@ -1,6 +1,6 @@
 <img src="https://github.com/vipul1029/vipul1029/blob/main/profile_pic.JPG" 
      alt="Vipul Kumar" 
-     width="160" 
+     width="full" 
      style="border-radius: 50%;" />
 # Hi there 👋 I’m Vipul Kumar  
 
