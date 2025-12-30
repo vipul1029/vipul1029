@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
 <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" 
      alt="Vipul Kumar" 
      width="full" 
