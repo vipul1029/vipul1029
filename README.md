@@ -1,8 +1,8 @@
-![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
 <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" 
      alt="Vipul Kumar" 
      width="full" 
      style="border-radius: 50%;" />
+     ![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
 # Hi there 👋 I’m Vipul Kumar  
 
 I’m a **Computer Science Engineering student at VIT Vellore** who genuinely enjoys building things with code whether it’s a clean website, a full-stack application, or a machine learning model.
