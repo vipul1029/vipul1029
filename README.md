@@ -13,7 +13,7 @@ I like learning by doing, experimenting with new ideas, and improving my skills 
 
 ## 👨‍💻 A Little About Me  
 - 🎓 B.Tech CSE (Core) student at **Vellore Institute of Technology, Vellore**  
-- 📈 CGPA: **8.33 / 10**  
+- 📈 CGPA: **8.38 / 10**  
 - 💡 Interested in **Software Development, Full-Stack Development, and Machine Learning**  
 - 🤝 Open to **internships, collaborations, and freelance projects**  
 - 🌱 Always curious and constantly learning  
