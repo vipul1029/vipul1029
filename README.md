@@ -2,82 +2,120 @@
      alt="Vipul Kumar" 
      width="full" 
      style="border-radius: 50%;" />
-     ![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
+
 # Hi there 👋 I’m Vipul Kumar  
 
-I’m a **Computer Science Engineering student at VIT Vellore** who genuinely enjoys building things with code whether it’s a clean website, a full-stack application, or a machine learning model.
+I’m a **Computer Science Engineering student at VIT Vellore** passionate about building scalable software, full-stack applications, and AI-powered systems.  
 
-I like learning by doing, experimenting with new ideas, and improving my skills through real-world projects.
+I enjoy working on real-world problems, especially in **Computer Vision, Machine Learning, and Backend Systems**.
 
 ---
 
-## 👨‍💻 A Little About Me  
-- 🎓 B.Tech CSE (Core) student at **Vellore Institute of Technology, Vellore**  
-- 📈 CGPA: **8.38 / 10**  
-- 💡 Interested in **Software Development, Full-Stack Development, and Machine Learning**  
-- 🤝 Open to **internships, collaborations, and freelance projects**  
-- 🌱 Always curious and constantly learning  
+## 👨‍💻 About Me  
+- 🎓 B.Tech CSE (Core), **Vellore Institute of Technology, Vellore (2023–2027)**  
+- 📊 CGPA: **8.38 / 10**  
+- 💡 Interests: **Full-Stack Development, Machine Learning, Computer Vision**  
+- 🚀 Currently building **AI-powered analytics systems & scalable web apps**  
+- 🤝 Open to **internships, freelance work, and collaborations**  
 
 ---
 
 ## 💼 Experience  
-### Software Development Intern at **Bluestock Fintech**  
+
+### 🧠 Computer Vision & ML Intern — MarkMyAd  
+*(Feb 2026 – Present)*  
+- Built **real-time AI video analytics systems** for billboard detection and audience analysis  
+- Implemented **face detection, age & gender recognition, and event timestamping**  
+- Developed **multi-object tracking pipelines (YOLO + DeepSORT)**  
+- Worked on **behavior analysis for retail surveillance systems**  
+
+---
+
+### 💻 Full Stack Developer Intern — Jurident  
+*(Dec 2025 – Jan 2026)*  
+- Developed scalable **full-stack modules using modern web technologies**  
+- Built and integrated **REST APIs**  
+- Optimized **database queries for performance**  
+- Collaborated in **Agile environment using Git workflows**  
+
+---
+
+### ⚙️ Software Development Intern — Bluestock Fintech  
 *(June 2025 – July 2025)*  
+- Built a **full-stack IPO web application**  
+- Designed **responsive UI from Figma using React**  
+- Developed and tested **REST APIs**  
+- Optimized **PostgreSQL database schema**  
 
-During my internship, I worked on a **full-stack IPO web application** where I got hands-on experience with real product development.
+---
 
-Some highlights:
-- Built responsive UI components from **Figma designs using React**
-- Developed and tested **REST APIs** with Postman  
-- Designed and optimized **PostgreSQL databases**
-- Worked with Git and followed proper development workflows  
+## 🚀 Projects  
 
-It helped me understand how real-world software is actually built, tested, and delivered.
+### 🔍 ML-Based Fruit Quality Evaluation  
+- Computer vision system to **analyze and classify fruit quality**  
+
+### 📈 Sales Prediction Model  
+- Built ML models (LR, RF, XGBoost) with **EDA & feature engineering**  
+
+### 🚗 Real-Time Vehicle Detection  
+- Developed using **YOLO + OpenCV** for live vehicle tracking  
+
+### 🛒 Shoporia – E-Commerce Platform  
+- Full-stack MERN app with **authentication, payments, and order tracking**  
+
+### 🍔 Food Ordering Platform  
+- End-to-end food delivery system with **live tracking + payments**  
+
+### 📄 AI Resume & Cover Letter Builder  
+- Built using **OpenAI + LangChain** with export to PDF/DOCX  
+
+---
+
+## 🏆 Hackathons  
+### 🥇 Smart India Hackathon 2024  
+- Built an **AI-based women safety system**  
+- Achieved ~**90% model accuracy** using ML + Computer Vision  
 
 ---
 
 ## 🛠️ Technical Skills  
 
-**Frontend:**  
-React.js, Next.js, HTML, CSS, Tailwind CSS, JavaScript, Bootstrap  
+### 💻 Full-Stack Development  
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL, MySQL  
 
-**Backend:**  
-Node.js, Express.js, MongoDB, PostgreSQL, MySQL  
+### 🧠 Machine Learning & Computer Vision  
+- Scikit-Learn, TensorFlow, OpenCV, YOLO  
+- Pandas, NumPy, Matplotlib, Jupyter Notebook  
 
-**Programming Languages:**  
-Python, Java, C++, C  
+### ⚙️ Tools & Platforms  
+- Git, GitHub, Vercel, Render, APIs  
 
-**Machine Learning & Data:**  
-Scikit-Learn, Pandas, NumPy, TensorFlow, Matplotlib  
-
-**Tools & Platforms:**  
-Git, GitHub, Vercel, Figma, Canva  
-
----
-
-## 🚀 Projects I’ve Worked On  
-- **Sales Prediction** – Machine learning project with EDA and predictive modeling  
-- **Shoporia** – E-commerce platform with cart, authentication, and orders  
-- **Food Ordering Platform** – End-to-end food delivery web app  
-- **Portfolio Website** – Responsive and animated personal portfolio  
-- **AI Resume & Cover Letter Builder** – AI-powered resume generation tool  
-- **Learning Management System** – Course management and dashboards  
-
-You can find live demos and source code in my repositories below 👇
+### 🧾 Languages  
+- Python, Java, C++, C  
 
 ---
 
-## 🏆 Hackathons & Activities  
-- 🥇 **Smart India Hackathon 2024**  
-  - Built an AI-based women safety solution  
-  - Achieved **92% model accuracy**  
-
-- 🤖 Active member of **AI/ML Club**  
-- 📣 **Campus Ambassador** for IIT Guwahati and IIT Kanpur  
+## 📚 Relevant Coursework  
+- Data Structures & Algorithms  
+- Operating Systems  
+- DBMS  
+- Computer Networks  
+- Cloud Architecture  
+- Machine Learning  
 
 ---
 
-## 🎯 When I’m Not Coding  
+## 🎯 Extra Activities  
+- 🤖 Active in AI/ML projects and development  
+- 📣 Campus Ambassador (IIT Guwahati & IIT Kanpur)  
+
+---
+
+## 🎯 Beyond Coding  
 - 📚 Reading novels  
 - ♟️ Playing chess  
 - 🧩 Solving Rubik’s cubes  
@@ -85,10 +123,12 @@ You can find live demos and source code in my repositories below 👇
 
 ---
 
-## 📫 Let’s Connect  
-- 📧 Email: **tovipul.kr@gmail.com** 
-- 💼 LinkedIn:  **https://www.linkedin.com/in/vipul-kumar-7697a428a/**
-- 🌐 Portfolio: **https://portfolio-vipul1007s-projects.vercel.app/**
+## 📫 Connect With Me  
+- 📧 Email: **vipul.kumar2023@vitstudent.ac.in**  
+- 💼 LinkedIn: https://www.linkedin.com/in/vipul-kumar-7697a428a/  
+- 🌐 Portfolio: https://portfolio-vipul1007s-projects.vercel.app/  
+- 🐙 GitHub: https://github.com/vipul1029  
 
-Thanks for stopping by! ⭐  
-Feel free to explore my work  and don’t hesitate to connect.
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me.
