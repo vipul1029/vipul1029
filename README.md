@@ -158,141 +158,146 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 
 
 
+<p align="center">
+  <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" width="150" style="border-radius:50%" />
+</p>
 
-<img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" 
-     alt="Vipul Kumar" 
-     width="full" 
-     style="border-radius: 50%;" />
+<h1 align="center">Hey 👋 I'm Vipul Kumar</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
+<p align="center">
+  🚀 AI Engineer • Full Stack Developer • Problem Solver  
+</p>
 
-# Hi there 👋 I’m Vipul Kumar  
-
-I’m a **Computer Science Engineering student at VIT Vellore** passionate about building **scalable software systems, full-stack applications, and AI-powered solutions**.  
-
-I love solving **real-world problems** using **Computer Vision, Machine Learning, and Backend Engineering**, with a strong focus on performance, scalability, and clean architecture.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipul1029&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/vipul1029?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/vipul1029?style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (Core), **Vellore Institute of Technology, Vellore (2023–2027)**  
+## ⚡ About Me  
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 CSE @ **VIT Vellore (2023–2027)**  
 - 📊 CGPA: **8.38 / 10**  
-- 💡 Interests: **Full-Stack Development, Machine Learning, Computer Vision**  
-- 🚀 Currently building **AI-powered analytics systems, real-time tracking pipelines, and scalable web apps**  
-- ⚡ Strong focus on **system design, performance optimization, and real-world impact**  
-- 🤝 Open to **internships, freelance opportunities, and impactful collaborations**  
+- 🧠 Into **AI, Computer Vision & Backend Systems**  
+- 🚀 Building **real-world scalable products**  
+- ⚡ Love **performance optimization & system design**  
+- 🤝 Open to **internships & collaborations**  
 
 ---
 
 ## 💼 Experience  
 
-### 🧠 Computer Vision & ML Intern — MarkMyAd  
-*(Feb 2026 – Present)*  
-- 🚀 Engineered **real-time AI video analytics systems** for billboard detection & audience insights  
-- 👁️ Implemented **face detection, age & gender recognition, and automated event timestamping**  
-- 🎯 Developed **multi-object tracking pipelines using YOLO + DeepSORT**  
-- 📊 Built **behavior analysis systems** for intelligent retail surveillance  
+<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+### 🧠 MarkMyAd — AI/ML Intern  
+- Built **real-time video analytics systems**  
+- YOLO + DeepSORT tracking pipelines  
+- Face detection + behavior analysis  
 
-### 💻 Full Stack Developer Intern — Jurident  
-*(Dec 2025 – Jan 2026)*  
-- ⚙️ Developed **scalable full-stack modules** using modern technologies  
-- 🔗 Designed and integrated **robust REST APIs**  
-- 📈 Optimized **database queries for high performance and reliability**  
-- 🤝 Collaborated in an **Agile environment using Git workflows**  
+### 💻 Jurident — Full Stack Intern  
+- Developed **REST APIs & scalable modules**  
+- Optimized backend performance  
 
----
-
-### ⚙️ Software Development Intern — Bluestock Fintech  
-*(June 2025 – July 2025)*  
-- 💻 Built a **full-stack IPO web platform (React + Node.js + PostgreSQL)**  
-- 🎨 Translated Figma designs into **responsive and production-ready UI**  
-- 🔧 Developed and tested **REST APIs for backend services**  
-- 🗄️ Optimized **PostgreSQL schema for efficiency and scalability**  
+### ⚙️ Bluestock — SDE Intern  
+- Built **IPO web app (React + Node + PostgreSQL)**  
 
 ---
 
 ## 🚀 Projects  
 
-### 🔍 ML-Based Fruit Quality Evaluation  
-- Built a **computer vision-based system** to automatically analyze and classify fruit quality  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,tensorflow,opencv" />
+</p>
 
-### 📈 Sales Prediction Model  
-- Developed ML models (**LR, RF, XGBoost**) with **EDA, feature engineering, and tuning**  
-
-### 🚗 Real-Time Vehicle Detection  
-- Implemented **real-time vehicle detection & tracking** using YOLO + OpenCV  
-
-### 🛒 Shoporia – E-Commerce Platform  
-- Built a **full-stack MERN application** with authentication, payments, and order tracking  
-
-### 🍔 Food Ordering Platform  
-- Developed an **end-to-end food delivery system** with live tracking and payment integration  
-
-### 📄 AI Resume & Cover Letter Builder  
-- Created an AI tool using **OpenAI + LangChain** with export to PDF/DOCX  
+- 🔍 **Fruit Quality Detection (CV + ML)**  
+- 🚗 **Vehicle Detection (YOLO)**  
+- 📈 **Sales Prediction Model**  
+- 🛒 **E-Commerce Platform (MERN)**  
+- 🍔 **Food Delivery System**  
+- 📄 **AI Resume Builder (OpenAI + LangChain)**  
 
 ---
 
-## 🏆 Hackathons  
+## 🏆 Achievements  
 
-### 🥇 Smart India Hackathon 2024  
-- Built an **AI-based women safety system** using ML & Computer Vision  
-- Achieved ~**90% model accuracy** with optimized training pipelines  
+<img align="right" width="250" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
 
----
-
-## 🛠️ Technical Skills  
-
-### 💻 Full-Stack Development  
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-
-### 🧠 Machine Learning & Computer Vision  
-- Scikit-Learn, TensorFlow, OpenCV, YOLO  
-- Pandas, NumPy, Matplotlib, Jupyter Notebook  
-
-### ⚙️ Tools & Platforms  
-- Git, GitHub, Vercel, Render, Postman, APIs  
-- Figma (UI Design), Docker (Basics)  
-
-### 🧾 Languages  
-- Python, Java, C++, C  
+🥇 Smart India Hackathon 2024  
+🎯 ~90% accuracy ML model  
 
 ---
 
-## 📚 Relevant Coursework  
-- Data Structures & Algorithms  
-- Operating Systems  
-- DBMS  
-- Computer Networks  
-- Cloud Architecture  
-- Machine Learning  
+## 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,python,java,cpp,mongodb,postgresql,mysql" />
+</p>
 
 ---
 
-## 🎯 Extra Activities  
-- 🤖 Actively building projects in **AI/ML and Full-Stack Development**  
-- 📣 Campus Ambassador — **IIT Guwahati & IIT Kanpur**  
+## ⚙️ Tools I Use  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vipul1029&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul1029&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vipul1029/vipul1029/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🎯 Beyond Coding  
-- 📚 Reading & self-growth  
-- ♟️ Chess  
-- 🧩 Rubik’s cube solving  
-- 🎬 Video editing  
+
+<img align="right" width="250" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
+
+♟️ Chess  
+🧩 Rubik’s Cube  
+🎬 Video Editing  
+📚 Reading  
 
 ---
 
-## 📫 Connect With Me  
-- 📧 Email: **vipul.kumar2023@vitstudent.ac.in**  
-- 💼 LinkedIn: https://www.linkedin.com/in/vipul-kumar-7697a428a/  
-- 🌐 Portfolio: https://portfolio-vipul1007s-projects.vercel.app/  
-- 🐙 GitHub: https://github.com/vipul1029  
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:vipul.kumar2023@vitstudent.ac.in">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/vipul-kumar-7697a428a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://portfolio-vipul1007s-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my work and connect — always open to exciting opportunities 🚀
+## 💡 Fun Line  
+
+<p align="center">
+  <b>I don’t just write code — I build scalable systems 🚀</b>
+</p>
+
+---
+
+⭐ If you like my work, drop a star — it means a lot!
