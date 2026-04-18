@@ -158,14 +158,27 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 
 
 
+
+
+
+
+
+
+
+
+
+
 <p align="center">
-  <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" width="150" style="border-radius:50%" />
+  <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" width="260" style="border-radius:50%" />
 </p>
 
-<h1 align="center">Hey 👋 I'm Vipul Kumar</h1>
+<h1 align="center">Vipul Kumar</h1>
+<p align="center">
+  <b>AI Engineer • Full Stack Developer • Computer Vision Enthusiast</b>
+</p>
 
 <p align="center">
-  🚀 AI Engineer • Full Stack Developer • Problem Solver  
+  Building scalable systems that solve real-world problems 🚀
 </p>
 
 <p align="center">
@@ -178,112 +191,94 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 
 ## ⚡ About Me  
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 CSE @ **VIT Vellore (2023–2027)**  
-- 📊 CGPA: **8.38 / 10**  
-- 🧠 Into **AI, Computer Vision & Backend Systems**  
-- 🚀 Building **real-world scalable products**  
-- ⚡ Love **performance optimization & system design**  
-- 🤝 Open to **internships & collaborations**  
+- 🎓 **B.Tech CSE @ VIT Vellore (2023–2027)**  
+- 📊 **CGPA:** 8.38 / 10  
+- 🧠 Focused on **AI, Computer Vision & Backend Systems**  
+- 🚀 Building **real-time analytics systems & scalable web apps**  
+- ⚡ Strong interest in **system design & performance optimization**  
+- 🤝 Open to **internships, freelance & collaborations**  
 
 ---
 
 ## 💼 Experience  
 
-<img align="right" width="280" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+### 🧠 Computer Vision & ML Intern — MarkMyAd  
+- Built **real-time AI video analytics systems**  
+- Developed **YOLO + DeepSORT tracking pipelines**  
+- Implemented **face detection & behavior analysis**  
 
-### 🧠 MarkMyAd — AI/ML Intern  
-- Built **real-time video analytics systems**  
-- YOLO + DeepSORT tracking pipelines  
-- Face detection + behavior analysis  
+### 💻 Full Stack Developer Intern — Jurident  
+- Built **scalable REST APIs & backend systems**  
+- Optimized **database performance & queries**  
 
-### 💻 Jurident — Full Stack Intern  
-- Developed **REST APIs & scalable modules**  
-- Optimized backend performance  
-
-### ⚙️ Bluestock — SDE Intern  
-- Built **IPO web app (React + Node + PostgreSQL)**  
+### ⚙️ Software Development Intern — Bluestock Fintech  
+- Developed **IPO platform (React + Node + PostgreSQL)**  
+- Built **responsive UI & optimized backend systems**  
 
 ---
 
 ## 🚀 Projects  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,tensorflow,opencv" />
-</p>
-
-- 🔍 **Fruit Quality Detection (CV + ML)**  
-- 🚗 **Vehicle Detection (YOLO)**  
-- 📈 **Sales Prediction Model**  
-- 🛒 **E-Commerce Platform (MERN)**  
-- 🍔 **Food Delivery System**  
-- 📄 **AI Resume Builder (OpenAI + LangChain)**  
+- 🔍 **Fruit Quality Detection** — Computer Vision system  
+- 🚗 **Vehicle Detection** — YOLO-based real-time tracking  
+- 📈 **Sales Prediction Model** — ML pipeline (LR, RF, XGBoost)  
+- 🛒 **Shoporia** — Full MERN E-Commerce platform  
+- 🍔 **Food Delivery System** — Live tracking + payments  
+- 📄 **AI Resume Builder** — OpenAI + LangChain  
 
 ---
 
 ## 🏆 Achievements  
 
-<img align="right" width="250" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
-
-🥇 Smart India Hackathon 2024  
-🎯 ~90% accuracy ML model  
+- 🥇 Smart India Hackathon 2024  
+- 🎯 Built ML model with ~90% accuracy  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,python,java,cpp,mongodb,postgresql,mysql" />
-</p>
+### 💻 Development  
+React • Next.js • Node.js • Express • Tailwind  
+
+### 🧠 AI / ML  
+YOLO • OpenCV • TensorFlow • Scikit-learn  
+
+### 🗄️ Databases  
+MongoDB • PostgreSQL • MySQL  
 
 ---
 
-## ⚙️ Tools I Use  
+## ⚙️ Tools  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,docker" />
-</p>
+Git • GitHub • Vercel • Render • Postman • Figma • Docker  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul1029&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul1029&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vipul1029&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul1029&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake  
+## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vipul1029/vipul1029/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul1029&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Beyond Coding  
-
-<img align="right" width="250" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif">
-
-♟️ Chess  
-🧩 Rubik’s Cube  
-🎬 Video Editing  
-📚 Reading  
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect  
 
 <p align="center">
   <a href="mailto:vipul.kumar2023@vitstudent.ac.in">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/vipul-kumar-7697a428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://portfolio-vipul1007s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel" />
@@ -292,12 +287,12 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 
 ---
 
-## 💡 Fun Line  
+## 💡 Philosophy  
 
 <p align="center">
-  <b>I don’t just write code — I build scalable systems 🚀</b>
+  <i>"I build systems that don’t just work — they scale."</i>
 </p>
 
 ---
 
-⭐ If you like my work, drop a star — it means a lot!
+⭐ If you like my work, consider giving a star — it motivates me!
