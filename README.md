@@ -263,11 +263,7 @@ Git • GitHub • Vercel • Render • Postman • Figma • Docker
 
 ---
 
-## 📈 Contribution Graph  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipul1029&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
