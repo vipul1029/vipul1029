@@ -15,7 +15,7 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 
 ## 👨‍💻 About Me  
 - 🎓 B.Tech CSE (Core), **Vellore Institute of Technology, Vellore (2023–2027)**  
-- 📊 CGPA: **8.38 / 10**  
+- 📊 CGPA: **8.43 / 10**  
 - 💡 Interests: **Full-Stack Development, Machine Learning, Computer Vision**  
 - 🚀 Currently building **AI-powered analytics systems & scalable web apps**  
 - 🤝 Open to **internships, freelance work, and collaborations**  
