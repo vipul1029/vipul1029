@@ -192,7 +192,7 @@ I enjoy working on real-world problems, especially in **Computer Vision, Machine
 ## ⚡ About Me  
 
 - 🎓 **B.Tech CSE @ VIT Vellore (2023–2027)**  
-- 📊 **CGPA:** 8.38 / 10  
+- 📊 **CGPA:** 8.43 / 10  
 - 🧠 Focused on **AI, Computer Vision & Backend Systems**  
 - 🚀 Building **real-time analytics systems & scalable web apps**  
 - ⚡ Strong interest in **system design & performance optimization**  
