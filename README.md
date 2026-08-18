@@ -1,396 +1,506 @@
-<!-- <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" 
-     alt="Vipul Kumar" 
-     width="full" 
-     style="border-radius: 50%;" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=vipul1029&style=flat-square)
+<!--                         HERO SECTION                           -->
 
-# Hi there 👋 I’m Vipul Kumar  
-
-I’m a **Computer Science Engineering student at VIT Vellore** passionate about building scalable software, full-stack applications, and AI-powered systems.  
-
-I enjoy working on real-world problems, especially in **Computer Vision, Machine Learning, and Backend Systems**.
-
----
-
-## 👨‍💻 About Me  
-- 🎓 B.Tech CSE (Core), **Vellore Institute of Technology, Vellore (2023–2027)**  
-- 📊 CGPA: **8.43 / 10**  
-- 💡 Interests: **Full-Stack Development, Machine Learning, Computer Vision**  
-- 🚀 Currently building **AI-powered analytics systems & scalable web apps**  
-- 🤝 Open to **internships, freelance work, and collaborations**  
-
----
-
-## 💼 Experience  
-
-### 🧠 Computer Vision & ML Intern — MarkMyAd  
-*(Feb 2026 – Present)*  
-- Built **real-time AI video analytics systems** for billboard detection and audience analysis  
-- Implemented **face detection, age & gender recognition, and event timestamping**  
-- Developed **multi-object tracking pipelines (YOLO + DeepSORT)**  
-- Worked on **behavior analysis for retail surveillance systems**  
-
----
-
-### 💻 Full Stack Developer Intern — Jurident  
-*(Dec 2025 – Jan 2026)*  
-- Developed scalable **full-stack modules using modern web technologies**  
-- Built and integrated **REST APIs**  
-- Optimized **database queries for performance**  
-- Collaborated in **Agile environment using Git workflows**  
-
----
-
-### ⚙️ Software Development Intern — Bluestock Fintech  
-*(June 2025 – July 2025)*  
-- Built a **full-stack IPO web application**  
-- Designed **responsive UI from Figma using React**  
-- Developed and tested **REST APIs**  
-- Optimized **PostgreSQL database schema**  
-
----
-
-## 🚀 Projects  
-
-### 🔍 ML-Based Fruit Quality Evaluation  
-- Computer vision system to **analyze and classify fruit quality**  
-
-### 📈 Sales Prediction Model  
-- Built ML models (LR, RF, XGBoost) with **EDA & feature engineering**  
-
-### 🚗 Real-Time Vehicle Detection  
-- Developed using **YOLO + OpenCV** for live vehicle tracking  
-
-### 🛒 Shoporia – E-Commerce Platform  
-- Full-stack MERN app with **authentication, payments, and order tracking**  
-
-### 🍔 Food Ordering Platform  
-- End-to-end food delivery system with **live tracking + payments**  
-
-### 📄 AI Resume & Cover Letter Builder  
-- Built using **OpenAI + LangChain** with export to PDF/DOCX  
-
----
-
-## 🏆 Hackathons  
-### 🥇 Smart India Hackathon 2024  
-- Built an **AI-based women safety system**  
-- Achieved ~**90% model accuracy** using ML + Computer Vision  
-
----
-
-## 🛠️ Technical Skills  
-
-### 💻 Full-Stack Development  
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, PostgreSQL, MySQL  
-
-### 🧠 Machine Learning & Computer Vision  
-- Scikit-Learn, TensorFlow, OpenCV, YOLO  
-- Pandas, NumPy, Matplotlib, Jupyter Notebook  
-
-### ⚙️ Tools & Platforms  
-- Git, GitHub, Vercel, Render, APIs  
-
-### 🧾 Languages  
-- Python, Java, C++, C  
-
----
-
-## 📚 Relevant Coursework  
-- Data Structures & Algorithms  
-- Operating Systems  
-- DBMS  
-- Computer Networks  
-- Cloud Architecture  
-- Machine Learning  
-
----
-
-## 🎯 Extra Activities  
-- 🤖 Active in AI/ML projects and development  
-- 📣 Campus Ambassador (IIT Guwahati & IIT Kanpur)  
-
----
-
-## 🎯 Beyond Coding  
-- 📚 Reading novels  
-- ♟️ Playing chess  
-- 🧩 Solving Rubik’s cubes  
-- 🎬 Video editing  
-
----
-
-## 📫 Connect With Me  
-- 📧 Email: **vipul.kumar2023@vitstudent.ac.in**  
-- 💼 LinkedIn: https://www.linkedin.com/in/vipul-kumar-7697a428a/  
-- 🌐 Portfolio: https://portfolio-vipul1007s-projects.vercel.app/  
-- 🐙 GitHub: https://github.com/vipul1029  
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my projects and connect with me. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Hi, I'm Vipul Kumar
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github.com/vipul1029/vipul1029/blob/main/profile.png" width="180" alt="Vipul Kumar"/>
+  <img
+    src="https://raw.githubusercontent.com/vipul1029/vipul1029/main/profile.png"
+    width="100%"
+    alt="Vipul Kumar — Developer Setup"
+  />
+</p>
+
+<br/>
+
+<h1 align="center">Vipul Kumar</h1>
+
+<p align="center">
+  <strong>AI Engineer · GenAI Builder · Computer Vision · Full-Stack Engineering</strong>
 </p>
 
 <p align="center">
-  <strong>AI Engineer • Generative AI • Computer Vision • Full-Stack Development</strong>
-</p>
-
-<p align="center">
-  Building intelligent systems, real-time AI applications, and production-ready software.
+  I build intelligent software that connects <strong>AI, data, vision, and real-world applications.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/vipul1029">
-    <img src="https://img.shields.io/github/followers/vipul1029?style=flat-square&label=Followers" />
-  </a>
-  <a href="https://github.com/vipul1029?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://komarev.com/ghpvc/?username=vipul1029">
-    <img src="https://komarev.com/ghpvc/?username=vipul1029&style=flat-square&label=Profile+Views" />
-  </a>
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a **Computer Science Engineering student at VIT Vellore** with a strong interest in **Artificial Intelligence, Generative AI, Computer Vision, and Full-Stack Engineering**.
-
-I enjoy turning ideas into practical systems — from **AI voice agents and LLM evaluation pipelines** to **real-time computer vision applications and full-stack platforms**.
-
-* 🎓 **B.Tech CSE (Core)** — Vellore Institute of Technology | 2023–2027
-* 📊 **GPA:** 8.43 / 10.00
-* 🤖 Interested in **Generative AI, AI Agents, LLMs & Computer Vision**
-* 👁️ Experience building **real-time detection & tracking systems**
-* ⚙️ Comfortable with **Python, Java, C++, JavaScript & modern backend frameworks**
-* 🚀 Interested in building **production-ready AI products**
-* 🤝 Open to **AI/ML, Software Engineering & Full-Stack opportunities**
-
----
-
-## 💼 Experience
-
-### 🤖 Software Engineer Intern — Generative AI | KreditBee
-
-**May 2026 – July 2026**
-
-* Built a **Gemini-powered AI Voice Agent** for automated customer conversations.
-* Developed an **AI User Simulator and LLM-based Evaluator** for automated conversation testing.
-* Benchmarked AI responses against real-agent interactions using **embeddings, UMAP, and conversation modeling**.
-
-### 👁️ Project Head — Computer Vision & ML Intern | MarkMyAd
-
-**Feb 2026 – May 2026**
-
-* Developed **real-time video analytics pipelines** using YOLO, DeepSORT, and OpenCV.
-* Optimized **multi-object tracking** and integrated deep-learning models for real-time inference.
-* Worked on production-oriented computer vision systems and AI video analytics.
-
-### 💻 Full Stack Development Intern | Valsco (Jurident)
-
-**Dec 2025 – Feb 2026**
-
-* Built full-stack features using **React, Node.js, FastAPI, and Firebase**.
-* Developed and optimized **REST APIs and database queries** for efficient application performance.
-
-### ⚙️ Software Development Intern | Bluestock Fintech
-
-**Jun 2025 – Jul 2025**
-
-* Built a full-stack **IPO web application** using React.js, Node.js, and PostgreSQL.
-* Developed responsive interfaces and REST APIs.
-* Optimized PostgreSQL schema and maintained Git-based development workflows.
-
----
-
-## 🚀 Featured Projects
-
-### 🍎 ML-Based Fruit Quality Evaluation
-
-**Python • Machine Learning • Computer Vision**
-
-Computer vision-based fruit quality evaluation system designed to automate quality classification using machine learning techniques.
-
-### 🚗 Real-Time Vehicle Detection
-
-**Python • OpenCV • YOLO**
-
-Real-time vehicle detection and tracking system capable of processing live video streams using YOLO and OpenCV.
-
-### 🛒 E-Commerce & Food Ordering Platform
-
-**MongoDB • Express.js • React • Node.js**
-
-Full-stack platform supporting product browsing, authentication, orders, payments, and live tracking.
-
-### 📄 AI Resume & Cover Letter Builder
-
-**React • Python • PostgreSQL • OpenAI GPT • LangChain**
-
-AI-powered application for generating resumes and cover letters with automated **PDF/DOCX export**.
-
----
-
-## 🏆 Hackathons & Technical Challenges
-
-| Event                                       | Highlight                                                   |
-| ------------------------------------------- | ----------------------------------------------------------- |
-| 🥇 **Smart India Hackathon 2024**           | Internal Finalist — AI-based women's safety system          |
-| 🚀 **National Space Hackathon — IIT Delhi** | AI system for space-debris collision prediction & avoidance |
-| 🤖 **Code for Bharat — Season 2**           | AI-powered missing-person detection using CCTV networks     |
-
----
-
-## 🛠️ Technical Stack
-
-### 🤖 AI / Generative AI
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini%20API-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Voice%20AI-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=flat-square" />
-</p>
-
-### 👁️ Machine Learning & Computer Vision
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy" />
-  <img src="https://img.shields.io/badge/UMAP-111827?style=flat-square" />
-</p>
-
-### 💻 Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk" />
-  <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript" />
-</p>
-
-### 🌐 Full Stack Development
-
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js" />
-  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-111827?style=flat-square&logo=tailwindcss" />
-</p>
-
-### 🗄️ Databases & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql" />
-  <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel" />
-  <img src="https://img.shields.io/badge/Render-111827?style=flat-square" />
-</p>
-
----
-
-## 📜 Certifications
-
-* **Machine Learning Specialization** — DeepLearning.AI & Stanford Online
-* **Advanced Generative AI** — IBM Career Education Program
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vipul1029&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vipul1029&hide_border=true&theme=transparent" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipul1029&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="165"/>
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="mailto:vipul.kumar2023@vitstudent.ac.in">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/vipul-kumar-7697a428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://portfolio-vipul1007s-projects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://github.com/vipul1029">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:vipul.kumar2023@vitstudent.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         QUICK SNAPSHOT                         -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🎓
+
+**VIT Vellore**
+
+B.Tech CSE
+2023 — 2027
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**AI / ML**
+
+GenAI
+Computer Vision
+Machine Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**Engineering**
+
+Full Stack
+Backend Systems
+Real-Time Applications
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**29**
+Public Repositories
+
+Building & experimenting
+
+</td>
+</tr>
+</table>
+
+---
+
+# `01` · Who I Am
+
+I'm a **Computer Science Engineering student at VIT Vellore** focused on building practical systems around **Artificial Intelligence, Generative AI, Computer Vision, and Full-Stack Engineering**.
+
+My work sits at the intersection of:
+
+```text
+AI / ML
+   │
+   ├── Generative AI
+   ├── LLM Applications
+   ├── AI Agents
+   ├── Computer Vision
+   └── Real-Time Inference
+          │
+          ▼
+     Backend Systems
+          │
+          ▼
+     Full-Stack Products
+```
+
+I enjoy taking an idea from **prototype → model → API → application → deployment**.
+
+> **Build it. Test it. Ship it. Improve it.**
+
+---
+
+# `02` · What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Intelligent Systems
+
+* LLM-powered applications
+* AI Agents
+* RAG pipelines
+* Voice AI
+* Prompt engineering
+* Embedding-based systems
+* AI evaluation workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+* Object detection
+* Multi-object tracking
+* Real-time video analytics
+* Facial analysis
+* YOLO pipelines
+* OpenCV applications
+* Vision-based automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* REST APIs
+* FastAPI
+* Node.js
+* Express.js
+* Database design
+* API integration
+* Performance optimization
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Product Engineering
+
+* React
+* Next.js
+* Full-stack applications
+* Authentication
+* Payments
+* Responsive interfaces
+* Deployment & cloud workflows
+
+</td>
+</tr>
+</table>
+
+---
+
+# `03` · Featured Builds
+
+### 🔥 Fire & Smoke Detection
+
+**Real-Time Computer Vision**
+
+AI-based fire and smoke detection pipeline designed around video analysis and automated detection workflows.
+
+`Python` `Computer Vision` `YOLO` `OpenCV`
+
+→ **[View Repository](https://github.com/vipul1029/fire-and-smoke-detecion)**
+
+---
+
+### 📊 Mutual Fund Data Analytics
+
+**Data + Web Application**
+
+An analytics-oriented project exploring financial data processing and visualization.
+
+`JavaScript` `Data Analytics`
+
+→ **[View Repository](https://github.com/vipul1029/Mutual-Fund-Data-Analytics)**
+
+---
+
+### 🎭 Facial Expression Analysis
+
+**Computer Vision**
+
+Exploration of facial-expression recognition and visual analysis using modern computer-vision tooling.
+
+`Python` `Computer Vision` `Deep Learning`
+
+→ **[View Repository](https://github.com/vipul1029/facial_expression)**
+
+---
+
+### 🧠 AI Analytics
+
+**AI / Computer Vision**
+
+AI-focused experimentation around analytics and intelligent visual processing.
+
+`Python` `AI` `Computer Vision`
+
+→ **[View Repository](https://github.com/vipul1029/AI-analytics)**
+
+---
+
+### 🚦 Smart Traffic Monitoring
+
+**YOLO + Real-Time Vision**
+
+Real-time traffic monitoring and object-detection system built around YOLO-based computer vision.
+
+`Python` `YOLO` `Computer Vision`
+
+→ **[View Repository](https://github.com/vipul1029/Smart-Traffic-Monitoring-System-using-YOLO)**
+
+---
+
+### 📺 Billboard Detection
+
+**Computer Vision**
+
+Vision-based billboard detection project exploring automated visual identification.
+
+`Computer Vision` `ML`
+
+→ **[View Repository](https://github.com/vipul1029/Billboard-Detection)**
+
+---
+
+### 🍎 AgriInspect
+
+**ML-Based Fruit Quality Evaluation**
+
+Machine-learning based computer-vision project for fruit-quality evaluation.
+
+`Python` `Jupyter` `Machine Learning`
+
+→ **[View Repository](https://github.com/vipul1029/AgriInspect-ML-Based-Fruit-Quality-Evaluation)**
+
+---
+
+### 🛒 Shoporia
+
+**Full-Stack E-Commerce**
+
+A complete shopping platform built around the MERN ecosystem.
+
+`MongoDB` `Express` `React` `Node.js`
+
+→ **[View Repository](https://github.com/vipul1029/Shoporia_Shopping_Site)**
+
+---
+
+### 🍔 Food Delivery Platform
+
+**Full-Stack Application**
+
+Food ordering platform with application-level flows for users, orders and delivery.
+
+`JavaScript` `Full Stack`
+
+→ **[View Repository](https://github.com/vipul1029/Food-Delivery-Site)**
+
+---
+
+### ✋ OpenCV Gesture Fruit Slicer
+
+**Computer Vision × Interactive Application**
+
+A gesture-controlled interactive application using computer vision.
+
+`Python` `OpenCV`
+
+→ **[View Repository](https://github.com/vipul1029/OpenCV-Gesture-Fruit-Slicer-Game)**
+
+---
+
+# `04` · My Engineering Playground
+
+Not everything here is a finished product.
+
+Some repositories are **experiments**.
+
+Some are **learning projects**.
+
+Some become **production-ready ideas**.
+
+And some exist simply because I wanted to know:
+
+> *"What happens if I build this?"*
+
+That's what this profile represents — **continuous engineering**.
+
+### Currently exploring
+
+```text
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│   Generative AI       ████████████████░░  80%      │
+│   Computer Vision     █████████████████░  85%      │
+│   Backend Systems     ███████████████░░░  75%      │
+│   Full Stack          █████████████████░  85%      │
+│   AI Agents           ██████████████░░░░  70%      │
+│   System Design       ████████████░░░░░░  60%      │
+│                                                    │
+└────────────────────────────────────────────────────┘
+```
+
+*The percentages are intentionally illustrative, not performance metrics.*
+
+---
+
+# `05` · Technology Map
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+`YOLO` · `Scikit-Learn` · `Pandas` · `NumPy` · `Matplotlib` · `Jupyter` · `Embeddings` · `UMAP`
+
+### Generative AI
+
+`Gemini API` · `LLMs` · `AI Agents` · `LangChain` · `RAG` · `Voice AI` · `Prompt Engineering`
+
+### Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,docker,vercel" />
+</p>
+
+---
+
+# `06` · Selected Experience
+
+### 🤖 Software Engineer Intern — Generative AI
+
+**KreditBee · May 2026 — July 2026**
+
+Worked on AI-driven customer conversation systems, including a Gemini-powered voice agent, AI user simulation, LLM evaluation, embeddings and conversation analysis.
+
+---
+
+### 👁️ Project Head — Computer Vision & ML
+
+**MarkMyAd · Feb 2026 — May 2026**
+
+Built real-time video analytics pipelines using **YOLO, DeepSORT and OpenCV**, with a focus on multi-object tracking and real-time inference.
+
+---
+
+### 💻 Full Stack Development Intern
+
+**Valsco (Jurident) · Dec 2025 — Feb 2026**
+
+Worked across React, Node.js, FastAPI and Firebase while developing REST APIs and optimizing application data flow.
+
+---
+
+### ⚙️ Software Development Intern
+
+**Bluestock Fintech · Jun 2025 — Jul 2025**
+
+Built a full-stack IPO platform using React, Node.js and PostgreSQL.
+
+---
+
+# `07` · Beyond Code
+
+### 🏆 Hackathons
+
+**Smart India Hackathon 2024**
+Internal Finalist — AI-based women's safety system
+
+**National Space Hackathon — IIT Delhi**
+AI solution for space-debris collision prediction and avoidance
+
+**Code for Bharat — Season 2**
+AI-powered missing-person detection using CCTV networks
+
+---
+
+# `08` · Certifications
+
+🎓 **Machine Learning Specialization**
+DeepLearning.AI × Stanford Online
+
+🤖 **Advanced Generative AI**
+IBM Career Education Program
+
+---
+
+# `09` · Explore My Work
+
+<p align="center">
+
+<a href="https://github.com/vipul1029?tab=repositories">
+<img src="https://img.shields.io/badge/ALL%20PROJECTS-Explore%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vipul1029/fire-and-smoke-detecion">🔥 Fire & Smoke</a>
+  •   <a href="https://github.com/vipul1029/AI-analytics">🧠 AI Analytics</a>
+  •   <a href="https://github.com/vipul1029/facial_expression">🎭 Facial Analysis</a>
+  •   <a href="https://github.com/vipul1029/Smart-Traffic-Monitoring-System-using-YOLO">🚦 Smart Traffic</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/vipul1029/Shoporia_Shopping_Site">🛒 Shoporia</a>
+  •   <a href="https://github.com/vipul1029/AgriInspect-ML-Based-Fruit-Quality-Evaluation">🍎 AgriInspect</a>
+  •   <a href="https://github.com/vipul1029/OpenCV-Gesture-Fruit-Slicer-Game">✋ Gesture AI</a>
+  •   <a href="https://github.com/vipul1029/Resume-Cover-letter-maker">📄 AI Resume Builder</a>
+
+</p>
+
+---
+
+# `10` · Let's Build Something
+
+I'm interested in opportunities where **AI meets real products**.
+
+Whether it's a computer-vision system, an intelligent agent, a backend architecture, or a full-stack product — I'm always interested in solving problems that are worth building.
+
+<p align="center">
+
+<a href="mailto:vipul.kumar2023@vitstudent.ac.in">
+<img src="https://img.shields.io/badge/Let's%20Talk-Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vipul-kumar-7697a428a/">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-vipul1007s-projects.vercel.app/">
+<img src="https://img.shields.io/badge/View-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>“Building intelligent systems that turn complex problems into practical solutions.”</i>
+  <sub>Designed, built & continuously evolving by Vipul Kumar.</sub>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and connect with me.
+  <sub>⚡ AI · Vision · Systems · Products</sub>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-⭐ If you like my work, consider giving a star — it motivates me!
