@@ -92,6 +92,9 @@
 <!--                         ABOUT                                -->
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vipul1029&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+</p>
 
 <h2>01 &nbsp;·&nbsp; About</h2>
 
@@ -648,9 +651,7 @@ Let's build something useful.
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vipul1029&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
-</p>
+
 
 <p align="center">
   <sub>© Vipul Kumar · AI · Vision · Systems · Products</sub>
